@@ -15,7 +15,7 @@
 		"postbuild": "npm run copy-files"
 	},
 	"devDependencies": {
-		"electron": "9.1.2",
+		"electron": "11.5.0",
 		"electron-builder": "^22.8.0",
 		"tslint": "^6.1.2",
 		"typescript": "^3.9.5",
